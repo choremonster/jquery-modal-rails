@@ -1,5 +1,3 @@
-###Currently I moved to angular-js for all my web applications. Because of that I do not maintain this project any more. It would be a pleasure for me to hand this project over to an other developer. Please just send me a note or create a issue if you are the one. 
-
 jquery-modal-rails
 ==================
 
@@ -78,6 +76,6 @@ sample:
 ## Contributors
 
 Thank you to the following wonderful people and projects for contributing to jquery-modal-rails:
-
-* @kylefox with https://github.com/kylefox/jquery-modal
-* @joliss with https://github.com/joliss/jquery-ui-rails
+* @dei79 for the original jquery-modal-rails https://github.com/dei79/jquery-modal-rails
+* @kylefox for jquery-modal https://github.com/kylefox/jquery-modal
+* @joliss for https://github.com/joliss/jquery-ui-rails
