@@ -3,6 +3,8 @@ jquery-modal-rails
 
 The simplest possible modal for jQuery for the Rails 3.1+ asset pipeline based on https://github.com/kylefox/jquery-modal
 
+Forked from https://github.com/dei79/jquery-modal-rails
+
 ## Usage
 
 In your Gemfile, add:
