@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "railties", ">= 3.2.0"
   s.add_dependency "thor",     "~> 0.14"
-  s.add_dependency "jquery-ui-rails", '6.0.0'
+  s.add_dependency "jquery-ui-rails", '5.0.5'
   s.add_dependency "uuidtools"
 
   s.files        = `git ls-files`.split("\n")
